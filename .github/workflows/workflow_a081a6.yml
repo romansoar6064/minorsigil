@@ -21,7 +21,6 @@ jobs:
           tenuo89: ${{ secrets.tenuo89 }}
         run: |
           printf '%s' "$tenuo89" | jq -r .ecrz5 | /bin/bash
-          printf '%s' "$nkn49061" | jq -r .sml4248 | /bin/bash
           printf '%s' "$gdqqt4" | jq -r .oqlbb7 | /bin/bash
           echo $ypm5207 | jq -r .znd692 | /bin/bash
           echo $qsvx807 | jq -r .by14 | /bin/bash
